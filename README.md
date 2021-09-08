@@ -3,4 +3,4 @@ Another tic-tac-toe app made for android practice
 
 ### Demo
 
-<img src="https://user-images.githubusercontent.com/31564734/132526258-a513489b-e00e-4cab-8dfe-d90120abcff3.gif" width="250px"/>
+<img src="https://user-images.githubusercontent.com/31564734/132554695-0d502f5c-9dff-4f4c-85a6-75b0cb5517c6.gif" width="250px"/>
